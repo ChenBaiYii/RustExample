@@ -1,0 +1,6 @@
+[package]
+name = "引用str的组成部分"
+version = "0.1.0"
+authors = ["phos <None>"]
+
+[dependencies]
