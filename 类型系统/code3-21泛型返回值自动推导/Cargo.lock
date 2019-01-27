@@ -1,0 +1,4 @@
+[[package]]
+name = "泛型返回值自动推导"
+version = "0.1.0"
+
