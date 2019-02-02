@@ -1,0 +1,6 @@
+[package]
+name = "code6-2按值传递的参数使用mut关键字"
+version = "0.1.0"
+authors = ["phos <2327279962@qq.com>"]
+
+[dependencies]

@@ -1,0 +1,6 @@
+[package]
+name = "code6-15type别名及将函数作为返回值"
+version = "0.1.0"
+authors = ["phos <2327279962@qq.com>"]
+
+[dependencies]

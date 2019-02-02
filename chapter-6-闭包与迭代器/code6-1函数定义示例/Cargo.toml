@@ -1,0 +1,6 @@
+[package]
+name = "code6-1函数定义示例"
+version = "0.1.0"
+authors = ["phos <2327279962@qq.com>"]
+
+[dependencies]
